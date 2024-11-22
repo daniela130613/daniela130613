@@ -1,4 +1,4 @@
-# Mi nobre es: Daniela hinojosa
+# Mi nobre es: Daniela Hinojosa
 
 
 - 👋 Hi, I’m @daniela130613
