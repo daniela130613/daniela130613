@@ -1,5 +1,5 @@
-# Mi nobre es: Daniela Hinojosa
-
+# Mi nombre es: Daniela Hinojosa
+---
 
 - 👋 Hi, I’m @daniela130613
 - 👀 I’m interested in learning how to make more difficult programs.
