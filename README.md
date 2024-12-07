@@ -2,16 +2,23 @@
 ---
 
 - 👋 Hi, I’m @daniela130613
-- 👀 I’m interested in learning how to make more difficult programs.
-- 🌱 I’m currently learning programming in Python
-- - ⚡ Fun fact: I like astronomy
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested IN LEARNING HOW TO MAKE MORE DIFFICULT PROGRAMS.
+- 🌱 I’m currently learning programming IN PYTHON.
+- - ⚡ Fun fact: I LIKE ASTRONOMY.
+- 💞️ I’m looking to collaborate with NE PEOPLE. 
+- 😄 Pronouns: SHE
 
 
 <!---
 daniela130613/daniela130613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+
+
+- 📫 How to reach me ...
